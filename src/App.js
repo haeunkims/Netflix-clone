@@ -7,7 +7,6 @@ import Banner from "./Banner";
 function App() {
   return (
     <div className="App">
-      {/* navbar  */}
       <Banner />
       <Row
         title="NETFLIX ORIGINALS"
